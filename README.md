@@ -1,5 +1,3 @@
-# OLA-Data-Analysis-Project
-Data analysis of OLA bookings using SQL &amp; Power BI
 # OLA Data Analyst Project 🚖📊
 
 ## 📌 Overview
@@ -82,10 +80,6 @@ mysql -u root -p < scripts/OLa_DataAnalysis.sql
 
 ## 🤝 Contributing
 Feel free to fork this repository and contribute by improving SQL queries, adding visualizations, or refining insights!
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
 ---
 🚀 **Show some love by starring this repo!**
 
