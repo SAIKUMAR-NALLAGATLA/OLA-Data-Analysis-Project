@@ -36,7 +36,6 @@ The dataset consists of **100,000** ride booking records with the following key 
 ## 🛠️ Technologies Used
 - **SQL** (Data Analysis & Queries)
 - **Power BI** (Dashboard & Visualization)
-- **Python** (For preprocessing, if required)
 - **Excel/CSV** (Data storage and manipulation)
 
 ## 📌 SQL Analysis
